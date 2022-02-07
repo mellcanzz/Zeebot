@@ -1776,7 +1776,7 @@ ${q+=1}.term`)
          zee.sendMessage(from, {displayName: `Creator Bot`, vcard: vcard2}, contact, 
          { quoted: troli, 
          })
-         reply('*_Jangan Lupa Subscrib_*\nhttps://youtube.com/c/FEBZABOTZ')
+         reply('*_Jangan Lupa Subscrib_*\nhttps://youtube.com/c/ツˣᴿᶻズガx')
          break
              
 		                         
